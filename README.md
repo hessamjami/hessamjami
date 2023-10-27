@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @# Hello, I'm Hessam Jami! 👋
+- 👋  Hello, I'm Hessam Jami! 👋
 
 ## About Me
 - 👀 I'm interested in bioinformatics, red blood cell physiopathology, machine learning, and reverse vaccinology.
