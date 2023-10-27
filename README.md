@@ -10,13 +10,4 @@
 
 ## Projects
 - [mechanobiology of RBC](Link to Project 1)
-- [Identification of bacteriophage by deep learning](Link to Project 2)
-  
-
-## Skills
-- 
-
-<
-hessamjami/hessamjami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Identification of bacteriophage by deep learning 
