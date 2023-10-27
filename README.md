@@ -9,5 +9,5 @@
 - 📫 You can reach me via email: hessam.jami@sydney.edu.au
 
 ## Projects
-- [mechanobiology of RBC](Link to Project 1)
-- [Identification of bacteriophage by deep learning 
+- [mechanobiology of RBC]
+- [Identification of bacteriophage by deep learning]
