@@ -2,10 +2,10 @@
 
 ## About Me  
 I’m a researcher and developer with a passion for merging **bioinformatics**, **mechanobiology**, and **machine learning** to solve complex biomedical challenges. My primary focus areas include:  
-- 🧬 **Bioinformatics**: RNA/DNA sequencing analysis to uncover biological insights.  
-- 💉 **Reverse Vaccinology**: Designing vaccines for diseases like leukemia.  
+
 - ⚙️ **Mechanobiology**: Simulating and analyzing Red Blood Cell (RBC) physiopathology.  
-- 🤖 **Machine Learning**: Applying cutting-edge models for disease diagnosis and medical image analysis.  
+- 🤖 **Machine Learning**: Applying cutting-edge models for disease diagnosis and medical image analysis.
+- 🧬 **Bioinformatics**: RNA/DNA sequencing analysis to uncover biological insights.  
 
 I thrive on interdisciplinary collaboration and am always eager to contribute to innovative projects that blend biology, physics, and computation.  
 
