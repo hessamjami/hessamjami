@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Hessam Jami!  
+# 👋 Hello, I'm Hessam!  
 
 ## About Me  
-🔬 Mechanical Engineer | Researcher | Data Scientist 
+🔬⚙️ Mechanical Engineer | Researcher | Data Scientist 
 
 Research Intrests:
-- ⚙️ **Mechanobiology**
+- 🔬 **Biophysics**
 - 🤖 **Machine Learning**
 
 
